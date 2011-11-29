@@ -16,7 +16,7 @@ Features
 ========
 
 * Generates 1 million random numbers
-* Outputs to STDOUT
+* Outputs to `STDOUT`
 * Simple command-line interface - no arguments to remember or regexes to write!
 * Loops
 * Compatible with most locales
