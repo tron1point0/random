@@ -9,7 +9,7 @@ What is it?
 ===========
 
 This is a random number generator I wrote to use in statistical analysis tools.
-I found the digits in [A Million Random Digits](million) to have a different
+I found the digits in [A Million Random Digits][million] to have a different
 distribution than what I needed, so I wrote my own.
 
 Features
